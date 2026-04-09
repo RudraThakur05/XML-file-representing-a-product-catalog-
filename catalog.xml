@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+    
+    <product id="101">
+        <name>Laptop</name>
+        <brand>Dell</brand>
+        <price currency="USD">800</price>
+        <category>Electronics</category>
+        <stock>25</stock>
+    </product>
+
+    <product id="102">
+        <name>Smartphone</name>
+        <brand>Samsung</brand>
+        <price currency="USD">500</price>
+        <category>Electronics</category>
+        <stock>50</stock>
+    </product>
+
+    <product id="103">
+        <name>Headphones</name>
+        <brand>Sony</brand>
+        <price currency="USD">150</price>
+        <category>Accessories</category>
+        <stock>100</stock>
+    </product>
+
+</catalog>
